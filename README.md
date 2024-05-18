@@ -4,7 +4,9 @@ This repository contains the code and resources for the codelab found [here](htt
 
 ## What you'll learn
 - You'll discover how to efficiently integrate Firebase across all compatible Flutter platforms. Explore the [Firebase for Flutter Documentation](https://firebase.google.com/docs/flutter/setup?platform=ios) for more information.
+
 - How to to build an event RSVP and guestbook chat app on Android, iOS, the Web, and macOS with Flutter.
+
 - How to authenticate users with Firebase Authentication and sync data with Firestore.
 
 ## flutter_firebase : A Flutter Project
